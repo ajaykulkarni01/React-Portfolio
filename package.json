@@ -1,5 +1,5 @@
 {
-  "name": "00-practice-app",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaykulkarni01/React-Portfolio.git"
+  },
+  "author": "Ajay Kulkarni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaykulkarni01/React-Portfolio/issues"
+  },
+  "homepage": "https://github.com/ajaykulkarni01/React-Portfolio#readme"
 }
