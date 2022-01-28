@@ -39,8 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ajaykulkarni01/React-Portfolio.git"
@@ -49,6 +47,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ajaykulkarni01/React-Portfolio/issues"
-  },
-  "homepage": "https://github.com/ajaykulkarni01/React-Portfolio#readme"
+  }
 }
