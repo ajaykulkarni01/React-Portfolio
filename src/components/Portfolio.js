@@ -46,8 +46,8 @@ const projects = [
     technologies: "Nodemon, Express, Concurrently, idb, babel-loader, workbox-window, service-worker, InjectManifest, WebpackPwaManifest, HtmlWebpackPlugin",
     image: "/img/text-editor.png",
     description: "This is a single-page application that meets the PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser.",
-    live: "https://github.com/ajaykulkarni01/PWA-Text-Editor",
-    repo: "https://ajay-pwa-text-editor.herokuapp.com/",
+    live: "https://ajay-pwa-text-editor.herokuapp.com/",
+    repo: "https://github.com/ajaykulkarni01/PWA-Text-Editor",
   },
  
   {
