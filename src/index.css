@@ -40,6 +40,10 @@ main {
   text-align: left;
 }
 
+.progress {
+  height: 4px !important;
+}
+
 footer.footer {
   background-color: rgb(255, 255, 255);
 }
