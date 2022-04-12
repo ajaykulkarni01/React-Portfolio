@@ -6,6 +6,15 @@ import Project from "./Project";
 const projects = [
   {
     id: 0,
+    title: "AJ's Boutique",
+    technologies: "MERN stack (MongoDB, Express, React, Node), Apollo-client, Bcrypt, Boostrap, Concurrently, Dotenv, GraphQL, JWT-decode, Mongoose, Heroku",
+    image: "/img/final-project.png",
+    description: "This website allows users to either sign up or login. Logged-in users can see their order history details. The website uses Stripe payment platform for accepting payments.",
+    repo: "https://github.com/ajaykulkarni01/Ajs-Boutique",
+    live: "https://ajs-boutique-final.herokuapp.com",
+  },
+  {
+    id: 1,
     title: "The Book Was Better",
     technologies: "HTML, JavaScript & CSS (bootstrap/bootswatch), Express.js, Node.js, MYSQL, Sequelize, Handlebars and Authentication (crypt, cookies and express-session), Heroku",
     image: "/img/thebookwasbetter.png",
@@ -14,7 +23,7 @@ const projects = [
     live: "https://the-book-was-better-book-club.herokuapp.com/",
   },
   {
-    id: 1,
+    id: 2,
     title: "MOODVIES",
     technologies: "html, css, javascript, Materalized framework, IMDB API",
     image: "/img/moodvies.png",
@@ -23,7 +32,7 @@ const projects = [
     live: "https://rhjeffries.github.io/ideal-telegram/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Social Network API",
     technologies: "Express.js, Moment, Mongoose, Nodemon, Insomnia, Regex",
     image: "/img/social-network-API.png",
@@ -32,7 +41,7 @@ const projects = [
     live: "https://github.com/ajaykulkarni01/Social-Network-API#Application-Demo",
   },
   {
-    id: 34,
+    id: 4,
     title: "Weather Dashboard",
     technologies: "html, css, javascript, Server side API",
     image: "/img/weather-dashboard.jpg",
@@ -41,7 +50,7 @@ const projects = [
     live: "https://ajaykulkarni01.github.io/Weather-Dashboard/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Text-Editor",
     technologies: "Nodemon, Express, Concurrently, idb, babel-loader, workbox-window, service-worker, InjectManifest, WebpackPwaManifest, HtmlWebpackPlugin",
     image: "/img/text-editor.png",
@@ -51,7 +60,7 @@ const projects = [
   },
  
   {
-    id: 5,
+    id: 6,
     title: "Work Day Scheduler",
     technologies: "html, css, javascript, Moment.js",
     image: "/img/work-day-schedular.png",
@@ -60,22 +69,13 @@ const projects = [
     live: "https://ajaykulkarni01.github.io/Work-Day-Scheduler/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Code Quiz",
     technologies: "html, css, js",
     image: "/img/code-quiz.jpg",
     description: "This is a timed coding quiz application with multiple-choice questions",
     repo: "https://github.com/ajaykulkarni01/Code-Quiz",
     live: "https://ajaykulkarni01.github.io/Code-Quiz/",
-  },
-  {
-    id: 6,
-    title: "Password Generator",
-    technologies: "html, css, js",
-    image: "/img/password-generator.png",
-    description: "an application that enables employees to generate random passwords based on criteria that they’ve selected.",
-    repo: "https://github.com/ajaykulkarni01/Password-Generator",
-    live: "https://ajaykulkarni01.github.io/Password-Generator/",
   },
 ];
 
